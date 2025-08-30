@@ -32,6 +32,12 @@ Findings (2022 – Sept 2023 combined)
 Across all categories, total profit reached $4.01M with an overall profit margin of 27.79%.
 
 
+
+<img src=" /" alt="Profitability Analysis Dashboard" width="600"/>
+
+
+
+
 **By total profit:**
 
 - Toys led with $1.08M, followed closely by Electronics ($1.00M).
@@ -54,6 +60,11 @@ Across all categories, total profit reached $4.01M with an overall profit margin
 #### Profitability Across Store Locations 
 
 Findings (2022 – Sept 2023 combined)
+
+
+
+
+<img src=" /" alt="Category-location wise Profit-pm" width="600"/>
 
 
 **Downtown Stores**
@@ -88,5 +99,7 @@ Lower sales volume, but stronger margins compared to Downtown.
 Across all locations, Toys and Electronics drive the highest absolute profits.
 
 Electronics consistently leads in profit margins, followed by Games.
+
+
 
 #### Seasonal Trends and Patterns 
