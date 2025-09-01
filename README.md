@@ -21,7 +21,7 @@ This analysis aims to evaluate sales and inventory performance for Maven Toys an
 
 KPIs:
 
-- Gross Profit ($ and %)
+- Gross Profit ($,%)
 
 - Profit Margin by Category and Location
 
@@ -179,7 +179,7 @@ Electronics consistently leads in profit margins, followed by Games.
 #### Seasonal Trends and Patterns 
 
 
-**Revenue Trend**
+**Revenue Trends**
 
 
 Revenue trends across both years show a clear double-peak sales cycle. In 2022, sales rose steadily from January and peaked in **April**, before dipping mid-year, with **August** marking the lowest point in both revenue and units sold. A strong recovery followed, ending with the highest revenue in **December**, reflecting the classic holiday season effect.
@@ -236,7 +236,7 @@ In 2023, the overall **March peak and August–September trough** were primarily
 Across both years, Toys and Sports & Outdoors are the categories most responsible for driving the company’s seasonal revenue cycles. Games provide additional lift at year-end, while Electronics remain steady but less aligned with overall demand patterns.
 
 
-**Units Sold Trend**
+**Units Sold Trends**
 
 
 In **2022**, units sold **steadily climbed from January to April**, peaking in line with revenue. Sales then **flattened in May–June**, before **dropping sharply in August**, the lowest point of the year. **A recovery followed, with December** peaking once again, mirroring revenue’s holiday surge.
