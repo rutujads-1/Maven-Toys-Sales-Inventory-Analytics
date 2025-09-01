@@ -62,12 +62,29 @@ KPIs:
 
 ### Executive Summary
 
-Maven Toys’ analysis shows that profitability is largely driven by Toys, with Games and Sports & Outdoors shaping margins, while Electronics provide steady returns — together contributing a total of $14.44M in revenue from 1M units sold between 2022 and Sept 2023. Sales follow a predictable seasonal pattern, peaking in spring and December and dipping in August, underscoring the need for cycle-aligned promotions and inventory planning. As of Sept 30, 2023, the company holds 30K units of stock valued at $300K (cost) / $410K (retail), providing just 18 days of coverage at recent sales rates. However, 23 stores face low stock issues, and five key stores (5, 8, 13, 24, 41) combine high demand with low inventory, particularly in Downtown locations, putting them at immediate risk of lost sales if replenishment is delayed.
+Maven Toys’ analysis shows that profitability is largely driven by Toys, with Games and Sports & Outdoors shaping margins, while Electronics provide steady returns — together contributing a total of $14.44M in revenue from 1M units sold between 2022 and Sept 2023. Sales follow a predictable seasonal pattern, peaking in spring and December and dipping in August, underscoring the need for cycle-aligned promotions and inventory planning. As of Sept 30, 2023, the company holds 30K units of stock valued at $300K (cost) / $410K (retail), providing just 18 days of coverage at recent sales rates. Downtown stores contribute the major share of profits but also account for the highest number of low-stock locations, with five key stores (IDs 5, 8, 13, 24, 41) combining high demand with limited inventory — putting them at immediate risk of lost sales if replenishment is delayed.
+
+
+<br>
+
+
+<br>
 
 
 
-<img src="" alt="Revenue Trends" width="400"/>
 
+
+
+
+
+<img src="images/ERD_ToySales_Analysis.png" alt="ERD Diagram" width="400"/>
+
+
+
+
+<br>
+
+<br>
 
 
 
@@ -81,10 +98,14 @@ Findings (2022 – Sept 2023 combined)
 
 Across all categories, total profit reached $4.01M with an overall profit margin of 27.79%.
 
+<br>
 
 
-<img src=" /" alt="Profitability Analysis Dashboard" width="600"/>
 
+<img src="images/Category Profitability_dashboard.png" alt="Profitability Analysis Dashboard" width="600"/>
+
+
+<br>
 
 
 
@@ -111,12 +132,21 @@ Across all categories, total profit reached $4.01M with an overall profit margin
 
 #### Profitability Across Store Locations 
 
+<br>
+
 Findings (2022 – Sept 2023 combined)
 
+<br>
+
+<br>
 
 
+<img src="images/Locationwise-profit-pm.png" alt="Category-location wise Profit-pm" width="600"/>
 
-<img src=" /" alt="Category-location wise Profit-pm" width="600"/>
+
+<br>
+
+<br>
 
 
 **Downtown Stores**
@@ -146,6 +176,7 @@ Large sales volumes make Downtown the biggest contributor to total profit.
 
 Lower sales volume, but stronger margins compared to Downtown.
 
+
 **Overall Pattern**
 
 Across all locations, Toys and Electronics drive the highest absolute profits.
@@ -166,7 +197,16 @@ Revenue trends across both years show a clear double-peak sales cycle. In 2022, 
 
 In 2023, the cycle followed a similar shape but peaked earlier, in **March**, and then held steady through the spring months. The **sharp August dip** repeated, confirming this as a consistent seasonal trough. By September, recovery was underway, mirroring the previous year’s Q4 uplift.
 
-image- graph
+<br>
+
+<br>
+
+<img src="images/Revenue_trend_2022-2023.png" alt="Revenue-Trend-2022-2023" width="600"/>
+
+<br>
+
+<br>
+
 
 **Category-Level Seasonal Trends**
 
@@ -182,11 +222,18 @@ image- graph
 
 In 2023, the overall **March peak and August–September trough** were primarily driven by **Toys and Sports & Outdoors**, both of which mirrored the company-level curve closely. Arts & Crafts followed a similar trend with slightly delayed timing. Electronics declined steadily month after month, dragging overall performance rather than driving peaks. **Games weakened compared to 2022**, showing declines rather than contributing strongly to the seasonal highs.
 
+<br>
 
-image- graphs 
+<br>
 
+<img src="images/Revenue by Category 2022-2023.png" alt="Revenue-By-Category-2022-2023" width="600"/>
+
+<br>
+
+<br>
 
 Across both years, Toys and Sports & Outdoors are the categories most responsible for driving the company’s seasonal revenue cycles. Games provide additional lift at year-end, while Electronics remain steady but less aligned with overall demand patterns.
+
 
 
 **Units Sold Trend**
@@ -197,7 +244,15 @@ In **2022**, units sold **steadily climbed from January to April**, peaking in l
 
 In **2023**, the pattern repeated with only a slight shift in timing. Units sold **rose through March** (the spring peak, one month earlier than 2022) and remained stable until July. The **sharp August trough returned**, extending into September before the recovery began.
 
-image- graphs 
+<br>
+
+<br>
+
+<img src="images/Units_Sold_2022-2023.png" alt="Units-Sold-2022-2023" width="600"/>
+
+<br>
+
+<br>
 
 
 Units sold mirror the revenue cycle almost exactly, confirming that seasonality is demand-driven. Customers purchase fewer units in August and more in April/December. The consistency across both years suggests a structural seasonal cycle rather than one-off anomalies.
@@ -210,10 +265,19 @@ In **2022**, profit margins **moved largely opposite to sales volume**. Margins 
 
 In **2023**, the trend was consistent. **Margins steadily declined from January through July**, even as revenue and units held stable after March. In **August–September, margins rose again** while sales fell, **repeating the 2022 pattern**. If Q4 follows the previous year, margins are likely to flatten in October–November and dip in December with holiday promotions.
 
-image graph
+<br>
+
+<br>
+
+<img src="images/Profit margin % Trend 2022-2023.png" alt="Profit-margin-%-2022-2023" width="600"/>
+
+<br>
+
+<br>
 
 
 High sales months like April and December coincide with lower margins, while low-sales months like August and September see higher margins. This highlights how volume is achieved at the expense of profitability, while quieter months result in more profitable sales mixes.
+
 
 **Category wise trends in Profit Margin**
 
@@ -223,8 +287,18 @@ In **2022**, company-level profit margins **declined through April–May**, **ro
 
 In **2023**, profit margins **again showed a seasonal cycle**, though with some category differences compared to 2022. **Margins declined through the first half of the year before recovering in August–September, mirroring the company-level rebound**. **Toys and Sports & Outdoors were the strongest drivers**, both closely aligned with the overall margin trend. **Arts & Crafts partially supported the Jul–Sep recovery**, while Electronics provided stable, high margins with a gentle upward slope. **Games, however, diverged from the company pattern**, showing weaker alignment and little contribution to the late-year rebound. Overall, **Toys and Sports & Outdoors dominated** both revenue and margin seasonality, making them the core categories driving company performance in 2023.
 
+<br>
 
-image- graphs 
+<br>
+
+
+<img src="images/Profit Margin % by Category .png" alt="Profit-margin-%-categorywise-2022-2023" width="600"/>
+
+
+
+<br>
+
+<br>
 
 While Toys drive volume and revenue seasonality, Games, Sports & Outdoors, and Toys together drive the margin seasonality. Electronics remain profitable but stable, with limited impact on seasonal swings.
 
@@ -237,19 +311,56 @@ While Toys drive volume and revenue seasonality, Games, Sports & Outdoors, and T
 Analysis shows that stores with IDs 1, 2, 3, 4, 5, 6, 7, 8, 11, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24, 25, 27, 28, and 32 currently hold low stock levels for certain products. Within this group, Stores 5, 8, 13, 24, and 41 stand out as having both high sales in Aug–Sep 2023 and a higher number of low-stock products. These stores are at greater risk of lost sales if replenishment is not addressed promptly, as their strong demand combined with constrained inventory could lead to missed revenue opportunities.
 
 
+<br>
+
+<br>
+
+
+<img src="images/Lost sales risk.png" alt="Lost Sales Risk" width="600"/>
+
+
+<br>
+
+<br>
+
+
 **Downtown Locations at Greater Risk**
 
 Among all store locations, Downtown stores show the highest concentration of low-stock issues. Within this group, five stores combine low inventory with high sales in Aug–Sep 2023, placing them at an elevated risk of lost sales if stock levels are not replenished quickly. This highlights Downtown as a priority area for inventory management and replenishment planning.
+
+<br>
+
+<br>
+
+
+<img src="images/Downtown_stores at risk.png" alt="stockouts-downtown-stores" width="600"/>
+
+
+<br>
+
+<br>
 
 
 **Low Stock by Product Category**
 
 Low stock issues are most concentrated in Toys (33 items) and Arts & Crafts (21 items), together accounting for over 70% of all low-stock cases. Sports & Outdoors (14 items) also shows notable stock pressure. In contrast, Electronics (4) and Games (5) currently face relatively fewer low-stock challenges. This suggests that replenishment efforts should prioritize the Toys and Arts & Crafts categories to minimize the risk of unmet demand.
 
+<br>
+
+<br>
+
+
+<img src="images/Category wise_stock levels .png" alt="lowstock-product-category" width="600"/>
+
+<br>
+
+<br>
+
 
 **Inventory Position**
 
 Toy stores currently have **30K units in stock**, valued at **$300K at cost (or ~$410K at retail price)**. Based on recent 2 months sales trends, this **stock would last for about 18 days**, which is slightly above the **year-to-date coverage of ~15 days**. This indicates that while stock levels are sufficient in the short term, the limited coverage window reinforces the need for timely replenishment to avoid future shortages.
+
 
 
 ### Recommendations
@@ -280,6 +391,7 @@ Profit margins move opposite to sales volume — margins dip during peak sales m
 
 
 
+
 ### Clarifying Questions
 
 *Questions to Stakeholders before analysis*
@@ -293,6 +405,8 @@ Profit margins move opposite to sales volume — margins dip during peak sales m
   (a) actual missed sales (which cannot be observed in the data), or
   
   (b) potential future lost sales risk, inferred from products with zero stock today that had strong recent sales?
+
+
 
 ### Assumptions & Caveats
 
