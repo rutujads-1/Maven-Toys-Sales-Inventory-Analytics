@@ -9,7 +9,7 @@
 
 Maven Toys is a fictitious chain of toy stores in Mexico, with locations across major cities such as Mexico City, Monterrey, Guadalajara, Puebla, and other regional hubs. The company sells a wide range of toys across multiple categories and relies heavily on sales and inventory data to guide its business decisions.
 
-In this project, I take on the role of a Data Analyst, collaborating with management and cross-functional teams (marketing, supply chain, and finance) to uncover profit drivers, seasonal sales trends, stockout issues, and inventory efficiency. The goal is to deliver actionable insights that support decision-making across the business.
+This project involved collaborating with management and cross-functional teams (marketing, supply chain, and finance) to analyze profit drivers, seasonal sales trends, stockout issues, and inventory efficiency, ultimately providing actionable insights to guide business decisions.
 
 
 ### Objectives
