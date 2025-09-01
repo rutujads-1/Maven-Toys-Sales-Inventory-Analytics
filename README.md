@@ -65,9 +65,26 @@ KPIs:
 Maven Toys’ analysis shows that profitability is largely driven by Toys, with Games and Sports & Outdoors shaping margins, while Electronics provide steady returns — together contributing a total of $14.44M in revenue from 1M units sold between 2022 and Sept 2023. Sales follow a predictable seasonal pattern, peaking in spring and December and dipping in August, underscoring the need for cycle-aligned promotions and inventory planning. As of Sept 30, 2023, the company holds 30K units of stock valued at $300K (cost) / $410K (retail), providing just 18 days of coverage at recent sales rates. However, 23 stores face low stock issues, and five key stores (5, 8, 13, 24, 41) combine high demand with low inventory, particularly in Downtown locations, putting them at immediate risk of lost sales if replenishment is delayed.
 
 
+<br>
 
-<img src="https://github.com/rutujads-1/Maven-Toys-Sales-Inventory-Analytics/commit/5b3cc75fadef5ece6793a97b0b6b26948dbdb24d#diff-cfb13af4b8d8075f58e934a4d899ef126b869e57ade7fd391e9982927abc3f41" alt="ERD Diagram" width="400"/>
 
+<br>
+
+
+
+
+
+
+
+
+<img src="images/ERD_ToySales_Analysis.png" alt="ERD Diagram" width="400"/>
+
+
+
+
+<br>
+
+<br>
 
 
 
@@ -81,10 +98,14 @@ Findings (2022 – Sept 2023 combined)
 
 Across all categories, total profit reached $4.01M with an overall profit margin of 27.79%.
 
+<br>
 
 
-<img src=" /" alt="Profitability Analysis Dashboard" width="600"/>
 
+<img src=" images/Category Profitability_dashboard.png " alt="Profitability Analysis Dashboard" width="600"/>
+
+
+<br>
 
 
 
@@ -114,9 +135,13 @@ Across all categories, total profit reached $4.01M with an overall profit margin
 Findings (2022 – Sept 2023 combined)
 
 
+<br>
 
 
-<img src=" /" alt="Category-location wise Profit-pm" width="600"/>
+<img src=" images/Location-profit-pm.png" alt="Category-location wise Profit-pm" width="600"/>
+
+
+<br>
 
 
 **Downtown Stores**
