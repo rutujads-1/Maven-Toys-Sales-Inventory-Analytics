@@ -21,8 +21,6 @@ This analysis aims to evaluate sales and inventory performance for Maven Toys an
 
 KPIs:
 
-- Total Revenue ($)
-
 - Gross Profit ($ and %)
 
 - Profit Margin by Category and Location
@@ -87,7 +85,7 @@ Maven Toys’ analysis shows that profitability is largely driven by Toys, with 
 
 Findings (2022 – Sept 2023 combined)
 
-Across all categories, total profit reached $4.01M with an overall profit margin of 27.79%.
+Across all categories, total profit reached **$4.01M** with an overall profit margin of **27.79%**.
 
 
 <br>
@@ -173,7 +171,7 @@ Lower sales volume, but stronger margins compared to Downtown.
 
 **Overall Pattern**
 
-Across all locations, Toys and Electronics drive the highest absolute profits.
+*Across all locations, Toys and Electronics drive the highest absolute profits*.
 
 Electronics consistently leads in profit margins, followed by Games.
 
