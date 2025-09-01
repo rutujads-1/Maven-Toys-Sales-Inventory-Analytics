@@ -55,6 +55,14 @@ KPIs:
 
 - Inventory Coverage (days of stock remaining)
 
+
+
+### Tools & Technologies
+
+- Excel – for preliminary data cleaning and analysis
+
+- Power BI – for dashboard design, visualization, and insights presentation
+
   
 ### Executive Summary
 
