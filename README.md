@@ -66,7 +66,8 @@ Maven Toys’ analysis shows that profitability is largely driven by Toys, with 
 
 
 
-ERD Diag 
+<img src="" alt="Revenue Trends" width="400"/>
+
 
 
 
