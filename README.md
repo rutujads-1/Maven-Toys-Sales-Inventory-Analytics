@@ -288,10 +288,10 @@ Profit margins move opposite to sales volume — margins dip during peak sales m
 - Sales data scope – Should the analysis focus only on recent sales (e.g., Aug–Sep 2023) as a demand baseline, or do we need to consider a longer seasonal view (e.g., last 12 months)?
 
 - Lost sales definition – Since we only have sales history until Sept 30, 2023, should “lost sales” be interpreted as:
-- 
-(a) actual missed sales (which cannot be observed in the data), or
-
-(b) potential future lost sales risk, inferred from products with zero stock today that had strong recent sales?
+  
+  (a) actual missed sales (which cannot be observed in the data), or
+  
+  (b) potential future lost sales risk, inferred from products with zero stock today that had strong recent sales?
 
 ### Assumptions & Caveats
 
