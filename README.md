@@ -31,7 +31,7 @@ KPIs:
 
 - Revenue
 
-- Profit Margin %
+- Profit Margin (%)
 
 - Units Sold
 
@@ -47,9 +47,9 @@ KPIs:
 
 KPIs:
 
-- Inventory Value at Cost ($)
+- Inventory Value (Cost)
 
-- Inventory Value at Retail ($)
+- Inventory Value (Retail)
 
 - Inventory Units on Hand (units)
 
@@ -203,7 +203,7 @@ In 2023, the cycle followed a similar shape but peaked earlier, in **March**, an
 
 
 
-**Category-Level Seasonal Trends**
+**Category-wise trends in Revenue**
 
 
 **2022 Revenue Patterns**
@@ -289,7 +289,7 @@ In **2023**, the trend was consistent. **Margins steadily declined from January 
 High sales months like April and December coincide with lower margins, while low-sales months like August and September see higher margins. This highlights how volume is achieved at the expense of profitability, while quieter months result in more profitable sales mixes.
 
 
-**Category wise trends in Profit Margin**
+**Category-wise trends in Profit Margin**
 
 
 In **2022**, company-level profit margins **declined through April–May**, **rose steadily to a peak in August**, and then **fell again in September and December**. Category analysis reveals that **Games, Sports & Outdoors, and Toys were the strongest drivers** of these margin swings. Games rose sharply from May to August, closely mirroring the August margin peak. Sports & Outdoors showed a steady increase from May through December, reinforcing the overall trend. Toys also peaked in August, almost exactly matching the company margin curve. Arts & Crafts followed a similar pattern but less sharply, making it a secondary contributor. Electronics, while consistently maintaining high margins of 47–49%, showed little seasonal movement and therefore had less impact on company-level margin fluctuations.
